@@ -1,0 +1,161 @@
+.merkez{
+    background-color: saddlebrown;
+     width:1200px;
+     height: 1300px;
+    border: 3px solid red;
+    margin: 5px auto;
+}
+.ana{
+    background-color: white;
+    width: 1100px;
+    height: 1200px;
+    border: 1px solid black;
+    margin: 5px auto;
+}
+.logo{
+    background-color: chartreuse;
+    width: 1000px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 5px auto;
+}
+.menü{
+    background-color: chartreuse;
+    width: 1000px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 5px auto;
+}
+.kategori{
+    background-color: chartreuse;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 5px 50px;
+    float: left;
+}
+.indir{
+    width: 300px;
+    height: 180px;
+    float: left;
+    margin: 10px 10px;
+}
+.ara{
+    width: 500px; 
+    height: 40px;
+    margin: 60px 30px;
+    border: 5px solid gray;
+}
+p{
+    float: left;
+    margin: 5px 20px;
+}
+a{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    margin: 0px 5px;
+    padding: 2px;
+}
+.super{
+    background-color: magenta;
+    width: 498px;
+    height: 498px;
+    border: 1px solid magenta;
+    float: left;
+}
+.urun1{
+    background-color: thistle;
+    border: 2px solid blue;
+    width: 250px;
+    height: 300px;
+    margin: 0px 520px;
+    border-radius: 50px;
+    
+    
+}
+.ıphone{
+    text-align: center;
+}
+.iphone{
+    margin: 10px 25px;
+}
+.ip{
+    text-align: center;
+}
+.iph{
+    text-align: center;
+    color: rgb(255, 138, 4);
+}
+.urun2{
+    background-color: thistle;
+    border: 2px solid blue;
+    width: 250px;
+    height: 300px;
+    margin: 0px 520px;
+    border-radius: 50px;
+    margin-left:800px;
+    margin-right:0px;
+
+    
+}
+.mont{
+    text-align: center;
+}
+.montt{
+    margin: 10px 50px;
+}
+.mo{
+    text-align: center;
+}
+.mon{
+    text-align: center;
+    color: rgb(255, 138, 4);
+}
+.urun3{
+    background-color: thistle;
+    border: 2px solid blue;
+    width: 250px;
+    height: 300px;
+    margin: -50px -20px;
+    border-radius: 50px;
+   
+}
+.kitap{
+    text-align: center;
+    
+}
+.kitapp{
+    margin: 10px 50px;
+}
+.ki{
+    text-align: center;
+}
+.kit{
+    text-align: center;
+    color: rgb(255, 138, 4);
+}
+.urun4{
+    background-color: thistle;
+    border: 2px solid blue;
+    width: 250px;
+    height: 300px;
+    margin: 0px 520px;
+    border-radius: 50px;
+    margin-top: -310px;
+    margin-left: 520px;
+   
+}
+.tava{
+    text-align: center;
+}
+.tavaa{
+    margin: 10px 50px;
+}
+.ta{
+    text-align: center;
+}
+.tav{
+    text-align: center;
+    color: rgb(255, 138, 4);
+}
